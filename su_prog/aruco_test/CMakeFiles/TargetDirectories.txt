@@ -1,0 +1,3 @@
+/home/su/Desktop/opencv/SU/su_prog/aruco_test/CMakeFiles/rebuild_cache.dir
+/home/su/Desktop/opencv/SU/su_prog/aruco_test/CMakeFiles/edit_cache.dir
+/home/su/Desktop/opencv/SU/su_prog/aruco_test/CMakeFiles/Demo.dir
